@@ -95,4 +95,4 @@ while True:
                 flag = True
                 print(f'Вот что нашлось по вашему поиску: {i.name}, {i.number}, {i.email}')
         if not flag:
-            print('По вашему запросу ничего не найдено')
+            print('По вашему запросу ничего не наjдено')
